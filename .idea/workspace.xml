@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2c01e20-cca3-447c-8dcb-ba30a351bf63" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1hoBaIUlu77GTZ97YKjTQc79Nrd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2c01e20-cca3-447c-8dcb-ba30a351bf63" name="Default Changelist" comment="" />
+      <created>1600667629439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600667629439</updated>
+      <workItem from="1600667631599" duration="6843000" />
+      <workItem from="1600708586718" duration="4237000" />
+      <workItem from="1600881688251" duration="2523000" />
+      <workItem from="1601572626182" duration="3614000" />
+      <workItem from="1603775550067" duration="1650000" />
+      <workItem from="1603947700785" duration="3032000" />
+      <workItem from="1603981859955" duration="7107000" />
+      <workItem from="1604033045568" duration="3683000" />
+      <workItem from="1604054128321" duration="10647000" />
+      <workItem from="1604120949298" duration="7366000" />
+      <workItem from="1604152648000" duration="9880000" />
+      <workItem from="1604206794528" duration="7194000" />
+      <workItem from="1604251457419" duration="2470000" />
+      <workItem from="1604253963419" duration="3109000" />
+      <workItem from="1604294792571" duration="18812000" />
+      <workItem from="1604467824904" duration="4633000" />
+      <workItem from="1604508081539" duration="10091000" />
+      <workItem from="1604553887434" duration="4459000" />
+      <workItem from="1604592381791" duration="5099000" />
+      <workItem from="1604639879392" duration="3688000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1583" y="363" key="#SQL_Dialects" timestamp="1604128385148">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1583" y="363" key="#SQL_Dialects/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604128385148" />
+    <state x="-1506" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600884764445">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1506" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600884764445" />
+    <state x="-1174" y="248" key="NewPhpClassDialog" timestamp="1604473073537">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1174" y="248" key="NewPhpClassDialog/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604473073537" />
+    <state x="-1125" y="443" key="NewPhpFileDialog" timestamp="1604473081697">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1125" y="443" key="NewPhpFileDialog/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604473081697" />
+    <state x="-1483" y="0" key="SettingsEditor" timestamp="1600667775831">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1483" y="0" key="SettingsEditor/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600667775831" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+database name : lms2
+password: ""
+username : root
+host: localhost
+
+
+Student:
+email: jalal@gmail.com
+pass: 123456
+
+Librarian:
+email: m@gmail.com
+pass: 123456
+
+Note: you can register for student and librarian
